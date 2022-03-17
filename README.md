@@ -1,5 +1,6 @@
 <img width="845" alt="Frame 1" src="https://user-images.githubusercontent.com/77759571/158801449-b43ccddc-ed5b-4343-82b4-c4eb5a770c72.png">
-### Hi there 👋
+
+**Hello there 👋**
 
  - 🌱 I’m currently learning **iOS Development with SwiftUI**
  - 😄 Pronouns: **he/him**

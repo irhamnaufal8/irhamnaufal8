@@ -1,3 +1,11 @@
+### Hi there 👋
+
+ - 🌱 I’m currently learning **iOS Development with SwiftUI**
+ - 📫 How to reach me: **Contact my Linkedin**
+ - 📫 How to reach me: **Dm Through Linkedin**
+ - 😄 Pronouns: **he/him**
+ - ⚡ Fun fact: **I'm singing while I'm coding**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamnaufal8&label=Profile%20views&color=0e75b6&style=flat" alt="irhamnaufal8" /> </p>
 
 <h3 align="left">Connect with me:</h3>

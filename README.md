@@ -8,12 +8,12 @@
  - ⚡ Fun fact: **I'm singing while I'm coding**
 
 ### Connect with me:
-<p align="left">
 <a href="https://www.instagram.com/irhamnaufal8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/irhamnaufal8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### Languages and Tools:
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<a href="https://developer.apple.com/swift/"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
+<a href="https://www.adobe.com"><img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/></a>
 
 
 ## My Stats:

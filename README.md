@@ -16,10 +16,6 @@
 <a href="https://www.adobe.com"><img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/></a>
 
 
-## My Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irhamnaufal8&theme=midnight-purple&show_icons=true&locale=en" alt="irhamnaufal8" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irhamnaufal8&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="irhamnaufal8" /></p>
 
 
